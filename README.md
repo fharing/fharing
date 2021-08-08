@@ -1,2 +1,2 @@
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&leet_logo=hide&login=fharing)](https://profile.intra.42.fr/users/fharing)
-![Metrics](https://metrics.lecoq.io/fharing?template=classic&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FBerlin)
+![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
