@@ -1402,9 +1402,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="407.1672057698849" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="407.1672057698849" y="0" width="36.37194005663292" height="8" fill="#438eff"/>
-                    <rect mask="url(#languages-bar)" x="443.5391458265178" y="0" width="16.46085417348219" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="407.2814217986938" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="407.2814217986938" y="0" width="36.29330975486901" height="8" fill="#438eff"/>
+                    <rect mask="url(#languages-bar)" x="443.5747315535628" y="0" width="16.42526844643718" height="8" fill="#427819"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
