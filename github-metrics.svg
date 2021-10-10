@@ -1473,9 +1473,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="412.8985776452066" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="412.8985776452066" y="0" width="30.27604900244002" height="8" fill="#438eff"/>
-                    <rect mask="url(#languages-bar)" x="443.1746266476466" y="0" width="16.825373352353367" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="413.3753517886379" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="413.3753517886379" y="0" width="29.9411099578032" height="8" fill="#438eff"/>
+                    <rect mask="url(#languages-bar)" x="443.31646174644106" y="0" width="16.683538253558904" height="8" fill="#427819"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
